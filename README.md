@@ -97,4 +97,4 @@ ts-node-dev
 # server
 - node dist/index.js
 
-## 🌟 Enjoy!!!
+## 🌟 Enjoy!!
