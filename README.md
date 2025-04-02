@@ -1,4 +1,4 @@
-# Shared To-Do 
+# 📋 ListApp
 
 A collaborative list-sharing web app built with **React + TypeScript**, **Supabase**, and a **Node.js/Express backend**. Designed for Alex, Raine, and their roommates to manage to-dos, grocery shopping, and reusable templates — all while prioritizing **data privacy (GDPR)** and modularity.
 
@@ -50,50 +50,51 @@ A collaborative list-sharing web app built with **React + TypeScript**, **Supaba
 ## Setup Instructions
 
 ### 1. Clone the project
-git clone https://github.com/your-username/ListApp.git
-cd ListApp
+- git clone https://github.com/your-username/ListApp.git
+
+- cd ListApp
 
 ### 2. Install dependencies
-# Frontend
-cd client
-npm install
+### Frontend
+- cd client
+- npm install
 
-# Backend
-cd ../server
-npm install
+### Backend
+- cd server
+- npm install
 
 ### 3. Set up environment variables
 
-# client:
-VITE_SUPABASE_URL=https://your-project.supabase.co
-VITE_SUPABASE_ANON_KEY=your-anon-key
+## client:
+- VITE_SUPABASE_URL=https://your-project.supabase.co   
+- VITE_SUPABASE_ANON_KEY=your-anon-key
 
-# server:
-SUPABASE_URL=https://your-project.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+## server:
+- SUPABASE_URL=https://your-project.supabase.co   |
+- SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 
 
 ## key packages:
 # Frontend:
-react
-react-router-dom
-@supabase/supabase-js
-tailwindcss
+react | 
+react-router-dom |
+@supabase/supabase-js |
+tailwindcss |
 react-icons
 
 
 # Backend:
-express
-@supabase/supabase-js
-dotenv
-cors
-typescript
+express |
+@supabase/supabase-js |
+dotenv |
+cors |
+typescript |
 ts-node-dev
 
 ### Run the app using:
 # client 
- npm run dev
+ - npm run dev
 # server
-node dist/index.js
+- node dist/index.js
 
 ## 🌟 Enjoy!!!
