@@ -1,0 +1,28 @@
+
+node_modules/
+dist/
+.env
+.DS_Store
+
+
+
+# Vite + React (Client)
+
+client/node_modules/
+client/dist/
+client/.env
+client/.env.*   # for VITE_ prefixed envs
+
+# Vite cache
+client/.vite/
+
+
+# Server (Node.js + TS)
+
+server/node_modules/
+server/dist/
+server/.env
+server/.env.*   # for service role envs
+
+
+
