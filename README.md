@@ -1,4 +1,4 @@
-# Shared To-Do 
+# 📋 ListApp
 
 A collaborative list-sharing web app built with **React + TypeScript**, **Supabase**, and a **Node.js/Express backend**. Designed for Alex, Raine, and their roommates to manage to-dos, grocery shopping, and reusable templates — all while prioritizing **data privacy (GDPR)** and modularity.
 
