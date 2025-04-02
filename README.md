@@ -55,21 +55,21 @@ git clone https://github.com/your-username/ListApp.git
 cd ListApp
 
 ### 2. Install dependencies
-## Frontend
+#### Frontend
 cd client
 npm install
 
-## Backend
+#### Backend
 cd ../server
 npm install
 
 ### 3. Set up environment variables
 
-# client:
+## client:
 VITE_SUPABASE_URL=https://your-project.supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-key
 
-# server:
+## server:
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 
