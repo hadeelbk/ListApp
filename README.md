@@ -55,11 +55,11 @@ git clone https://github.com/your-username/ListApp.git
 cd ListApp
 
 ### 2. Install dependencies
-#### Frontend
+### Frontend
 cd client
 npm install
 
-#### Backend
+### Backend
 cd ../server
 npm install
 
@@ -76,19 +76,19 @@ SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
 
 ## key packages:
 # Frontend:
-react
-react-router-dom
-@supabase/supabase-js
-tailwindcss
+react|
+react-router-dom|
+@supabase/supabase-js|
+tailwindcss|
 react-icons
 
 
 # Backend:
-express
-@supabase/supabase-js
-dotenv
-cors
-typescript
+express|
+@supabase/supabase-js|
+dotenv|
+cors|
+typescript|
 ts-node-dev
 
 ### Run the app using:
