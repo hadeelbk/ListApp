@@ -52,7 +52,7 @@ A collaborative list-sharing web app built with **React + TypeScript**, **Supaba
 ### 1. Clone the project
 - git clone https://github.com/your-username/ListApp.git
 
-cd ListApp
+- cd ListApp
 
 ### 2. Install dependencies
 ### Frontend
