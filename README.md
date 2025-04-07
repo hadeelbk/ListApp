@@ -50,7 +50,7 @@ A collaborative list-sharing web app built with **React + TypeScript**, **Supaba
 ## Setup Instructions
 
 ### 1. Clone the project
-- git clone https://github.com/your-username/ListApp.git
+- git clone (HTTPS link)
 
 - cd ListApp
 
@@ -66,12 +66,12 @@ A collaborative list-sharing web app built with **React + TypeScript**, **Supaba
 ### 3. Set up environment variables
 
 ## client:
-- VITE_SUPABASE_URL=https://your-project.supabase.co   
-- VITE_SUPABASE_ANON_KEY=your-anon-key
+- VITE_SUPABASE_URL=https://project.supabase.co   (based on the supabase API data)
+- VITE_SUPABASE_ANON_KEY=anon-key (based on the supabase API data)
 
 ## server:
-- SUPABASE_URL=https://your-project.supabase.co   |
-- SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
+- SUPABASE_URL=https://project.supabase.co   (based on the supabase API data)  |
+- SUPABASE_SERVICE_ROLE_KEY=service-role-key  (based on the supabase API data)
 
 
 ## key packages:
